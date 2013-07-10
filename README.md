@@ -3,7 +3,7 @@ StandarCadLibrary
 
 Collection of highly reusable CAD models.
 
-So far in this hopefully growing collection:
+So far available in this hopefully growing collection:
 
 * [Arduino Uno Board][1]
 * [HS 311 Servo Motor][2]
